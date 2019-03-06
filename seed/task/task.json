@@ -1,0 +1,116 @@
+[
+    {
+        "type": "PreClosing",
+        "title": "Assign Contacts",
+        "description": "you can assign the transaction to many role",
+        "position": 0,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": null,
+        "action": "Assign"
+    },
+    {
+        "type": "PreClosing",
+        "title": "Invite Contacts",
+        "description": "you can setup the contact for the conversation as well as the other task",
+        "position": 1,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": "/portal/huddle/userInvite",
+        "action": "Invite"
+    },
+    {
+        "type": "PreClosing",
+        "title": "Buyer Questionnaire",
+        "description": "This task is required to gather the buyers information",
+        "position": 2,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            },
+            {
+                "roleId": null,
+                "roleName": "Buyer"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": "/portal/huddle/buyerQuestionnaire",
+        "action": "Submit"
+    },
+    {
+        "type": "PreClosing",
+        "title": "Seller Questionnaire",
+        "description": "This task is required to gather the Seller's information",
+        "position": 3,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            },
+            {
+                "roleId": null,
+                "roleName": "Seller"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": "/portal/huddle/sellerQuestionnaire",
+        "action": "Submit"
+    },
+    {
+        "type": "PreClosing",
+        "title": "Schedule Closing",
+        "description": "you can schedule the closing location for final transaction",
+        "position": 4,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": "/portal/huddle/scheduleClosing",
+        "action": "Schedule"
+    },
+    {
+        "type": "PreClosing",
+        "title": "Closing",
+        "description": "you can setup the closing team members which participate in closing",
+        "position": 5,
+        "contacts": [
+            {
+                "roleId": null,
+                "roleName": "SettlementAgent"
+            },
+            {
+                "roleId": null,
+                "roleName": "SellingAgentBroker"
+            },
+            {
+                "roleId": null,
+                "roleName": "ListingAgentBroker"
+            },
+            {
+                "roleId": null,
+                "roleName": "Buyer"
+            },
+            {
+                "roleId": null,
+                "roleName": "Seller"
+            }
+        ],
+        "componentType": "PredefinedForm",
+        "formRoute": null,
+        "action": "Close"
+    }
+]

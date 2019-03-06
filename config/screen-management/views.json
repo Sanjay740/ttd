@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SummaryDashboard",
+    "availableActions": ["View"],
+    "description": "This is the main dashboard for huddle",
+    "viewParts": [
+      { "name": "TransationStatus", "availableActions": ["View"] },
+      { "name": "TransactionHistory", "availableActions": ["View"] },
+      { "name": "ClosingTracker", "availableActions": ["View"] },
+      { "name": "NewTransactions", "availableActions": ["View"] },
+      { "name": "PendingTransactions", "availableActions": ["View"] },
+      { "name": "ClosingTransactions", "availableActions": ["View"] }
+    ]
+  },
+  {
+    "name": "TransactionWorkflow",
+    "availableActions": ["View"],
+    "description": "",
+    "viewParts": [
+      { "name": "Workflow", "availableActions": ["View", "Edit", "Delete"] },
+      {
+        "name": "TransactionSummary",
+        "availableActions": ["View", "Edit"]
+      },
+      { "name": "Contacts", "availableActions": ["Add", "Edit", "Delete"] },
+      { "name": "Documents", "availableActions": ["Add", "Delete"] },
+      { "name": "AddTask", "availableActions": ["Add"] },
+      { "name": "ViewDocument", "availableActions": ["View"] }
+    ]
+  },
+  {
+    "name": "Conversation",
+    "description": "",
+    "viewParts": []
+  },
+  {
+    "name": "NewTransactions",
+    "availableActions": ["View"],
+    "description": "",
+    "viewParts": []
+  },
+  {
+    "name": "InProgressTransactions",
+    "availableActions": ["View"],
+    "description": "",
+    "viewParts": [
+      { "name": "TaskWorkflow", "availableActions": ["View"] },
+      {
+        "name": "TransactionDetails",
+        "availableActions": ["Edit", "View", "Delete"]
+      }
+    ]
+  },
+  {
+    "name": "AssignRoles",
+    "description": "",
+    "viewParts": []
+  },
+  {
+    "name": "SetupClosingLocation",
+    "description": "",
+    "availableActions": ["Add", "Edit"],
+    "viewParts": []
+  },
+  {
+    "name": "ScheduleClosingLocation",
+    "description": "",
+    "availableActions": ["Edit"],
+    "viewParts": []
+  },
+  {
+    "name": "WorkflowSettings",
+    "description": "",
+    "viewParts": [{ "name": "AddTask", "availableActions": ["Add"] }]
+  },
+  {
+    "name": "Manageforms",
+    "description": "",
+    "availableActions": ["Add"],
+    "viewParts": ["AddNewForm"]
+  },
+  {
+    "name": "FormBuilder",
+    "description": "",
+    "viewParts": [
+      {
+        "name": "CreateForm",
+        "avilableActions": ["Add", "View"]
+      }
+    ]
+  }
+]

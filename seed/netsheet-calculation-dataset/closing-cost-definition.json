@@ -1,0 +1,2219 @@
+[
+    {
+        "lineNumber": 1,
+        "description": "Down Payment",
+        "splitType": 0,
+        "isAmountEditable": false,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 12,
+        "flatAmount": 0,
+        "explanation": "The difference between the purchase price and that portion of the purchase price being financed. Most lenders require the down payment to be paid from the buyer's own funds.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": false
+    },
+    {
+        "lineNumber": 2,
+        "description": "Escrow Fee",
+        "splitType": 2,
+        "isAmountEditable": false,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 2,
+        "flatAmount": 0,
+        "explanation": "A fee charged by the escrow company as a neutral third party to carry out the procedures  necessary to transfer ownership of property.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": 1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": false
+    },
+    {
+        "lineNumber": 3,
+        "description": "New Loan Escrow Fee (VA-Buyer cannot pay)",
+        "splitType": 2,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 3,
+        "flatAmount": 0,
+        "explanation": "A fee charged by the escrow company to carry out the additional procedures necessary when a new loan is created by a lender in connection with a purchase.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": 1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 4,
+        "description": "ALTA Homeowners Title Policy",
+        "splitType": 1,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 4,
+        "flatAmount": 0,
+        "explanation": "Owner title insurance premium charged by the title company to insure the buyer that the title is free from defects up to the date the conveying instrument is recorded. Buyer is the insured.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 5,
+        "description": "ALTA Loan Policy",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 5,
+        "flatAmount": 0,
+        "explanation": "An insurance premium charged by the title company to insure lender that encumbrance is a first lien on the property. Fee based on loan amount.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 6,
+        "description": "ALTA Loan Endorsements (i.e. 8.1, PUD, etc.)",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 1,
+        "flatAmount": 150,
+        "explanation": "Additional insurance premium(s) charged by the title company to provide additional coverage(s) as required by lender. Most common are the 8.1 (Environmental protection liens) PUD (certain violations of HOA covenants &amp; encroachments) 102.5 (Foundation) 103.5 (Water rights) and6 (variable interest rate mortgage).",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 7,
+        "description": "Recording Fees",
+        "splitType": 2,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 1,
+        "flatAmount": 50,
+        "explanation": "Fees charged by the County Recorder's Office for recordation of appropriate instrument(s).",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 8,
+        "description": "Process Service Fee",
+        "splitType": 2,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 1,
+        "flatAmount": 200,
+        "explanation": "Fee(s) charged for the mailing and/or distribution of documents by express delivery system i.e. Federal Express Express Mail or other overnight or local service.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 9,
+        "description": "Appraisal",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 1,
+        "flatAmount": 450,
+        "explanation": "A fee charged by an appraiser to render an opinion of value as of a specific date. Required by most lenders to obtain a loan.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 485,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 535,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 10,
+        "description": "Application Fee (i.e. credit report, etc.)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 1,
+        "flatAmount": 10,
+        "explanation": "A fee charged by the lender to start the formal loan application. This may include charges such as a credit report submission fee etc.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 11,
+        "description": "Origination Fee",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 6,
+        "flatAmount": 0,
+        "explanation": "A loan processing fee charged by the lender for originating a new loan.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 12,
+        "description": "VA Funding Fee ({VFF})",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 1,
+        "flatAmount": 100,
+        "explanation": "A fee charged by the Veteran's Administration to guarantee the loan of a qualified veteran.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 13,
+        "description": "Loan Discount Points",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "A fee charged by the lender to make a loan at a given interest rate. One point equals one percent of the total loan amount and fluctuates depending on the interest rate and availability of money for loans.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 14,
+        "description": "FHA/VA Loan Costs",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "To be used only in conjunction with the lines in the Financing area of the Contract under “Other Loan Costs”. Fees charged by the lender that cannot be paid by the buyer to process an FHA/VA loan. These costs could include but are not limited to: tax service document preparation underwriting bringdown endorsement warehousing assignment fees etc. VERIFY COSTS WITH LENDER.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": 1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 15,
+        "description": "USDA Guarantee Fee",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 14,
+        "flatAmount": 0,
+        "explanation": "USDA Guarantee Fee.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 16,
+        "description": "Miscellaneous Loan Costs",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "Fees charged by the lender to process the loan.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 17,
+        "description": "Flood Certification",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "A fee charged by the lender to certify the flood plain status of the property. Normally this report will determine if the lender will require flood insurance to obtain a loan on the property.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 18,
+        "description": "Prepaid Interest ({PI} days)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 7,
+        "flatAmount": 0,
+        "explanation": "The amount of interest to cover the period from close of escrow until the beginning of the first payment.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 19,
+        "description": "Tax Impound",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 8,
+        "flatAmount": 0,
+        "explanation": "An amount for taxes required and collected by the lender/account servicing agent and held in the impound account to ensure adequate funds are available to pay the taxes. The amount varies according to the closing month.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 20,
+        "description": "Hazard Insurance (1st year + 2 mo. impound)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 9,
+        "flatAmount": 0,
+        "explanation": "The first annual premium plus 2 months for fire and extended coverage insurance to cover loss of the property. Usually called Homeowner's Insurance.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 21,
+        "description": "MIP / PMI Premium (3 mo. impound)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 10,
+        "flatAmount": 0,
+        "explanation": "An insurance premium to protect the lender against loss incurred by loan default thus enabling the lender to lend a higher percentage of the sale price.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 22,
+        "description": "Flood Insurance (1st year + 2 mp. impound)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "The first annual premium plus 2 months for a form of hazard insurance that may be required by the lender as a condition of making the loan.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 2,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 23,
+        "description": "Assumption Processing/Transfer Fee(s)",
+        "splitType": 0,
+        "isAmountEditable": true,
+        "divisionDefinitionId": "",
+        "isActive": true,
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "All fees including any assumption transfer and/or processing fees charged by the lender to process the records of the existing loan into the buyer's name.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ],
+        "isDescriptionEditable": true
+    },
+    {
+        "lineNumber": 24,
+        "description": "Loan Payment Due (existing loans)",
+        "splitType": 1,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "The payment amount due from the seller at close of escrow and/or in the case of an assumption of the existing loan the next payment due from the buyer.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 25,
+        "description": "Interest Adjustment (existing loans)",
+        "splitType": 1,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "An estimated amount of interest due at closing. Interest is collected in arrears and therefore must be collected from the last monthly loan payment to closing or payoff.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 26,
+        "description": "Payoff Statement Fee",
+        "splitType": 1,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 1,
+        "flatAmount": 50,
+        "explanation": "A fee charged by the lender or collection company for payoff information.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 27,
+        "description": "Payoff Penalty - Existing Loan(s)",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "A prepayment penalty under a Promissory Note imposed by the lender when the loan is paid off before it is due.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 28,
+        "description": "Tracking Fee",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "A fee charged by the escrow company to ensure that the releases of the seller's existing liens are recorded.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 29,
+        "description": "Brokerage Fee",
+        "splitType": 2,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 11,
+        "flatAmount": 0,
+        "explanation": "A fee paid to a real estate broker as compensation for services rendered.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 30,
+        "description": "Home Warranty Policy",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "A fee charged by a private company to cover specified defects. Coverage and    deductibles vary with the provider and plan. Both new and resale homes may be warranted.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 31,
+        "description": "Property Inspection Fee(s)",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "Fee(s) charged by a private company(s) or individual(s) to examine and report on the condition of a property.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 32,
+        "description": "Wood Infestation Report",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 1,
+        "flatAmount": 55,
+        "explanation": "A fee for a wood infestation report.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 33,
+        "description": "Environmental Inspection Fee(s)",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "Fee(s) charged by a qualified entity to inspect and tender a report  addressing potential environmental issues i.e. lead-based paint water quality hazardous waste radon asbestos etc.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 34,
+        "description": "HOA Fee(s)",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "Charged by the HOA to transfer ownership records and/or bond.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 35,
+        "description": "HOA Transfer/Inspection/Certification Fee(s)",
+        "splitType": 1,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "Fee(s) charged by the HOA to transfer ownership records and/or bond.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 36,
+        "description": "HOA Master",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 37,
+        "description": "Real Estate Tax Proration",
+        "splitType": 2,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 13,
+        "flatAmount": 0,
+        "explanation": "An amount due for taxes accrued but not yet due and payable. Taxes are generally prorated to the day of closing. Verification for paid/unpaid taxes can be made through the County Treasurer's Office.",
+        "financingRequirements": [
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 0,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 38,
+        "description": "Septic Certification/Dye Test/Perc Test",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 39,
+        "description": "Survey",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    },
+    {
+        "lineNumber": 40,
+        "description": "Assessments",
+        "splitType": 0,
+        "isAmountEditable": "false",
+        "divisionDefinitionId": "",
+        "isActive": "true",
+        "calculationType": 0,
+        "flatAmount": 0,
+        "explanation": "",
+        "financingRequirements": [
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 0
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 1
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 2
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 3
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 4
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 5
+            },
+            {
+                "financingRequirement": 1,
+                "splitTypeOverride": -1,
+                "flatAmountOverride": 0,
+                "loanType": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "MPI Or PMI Impounds",
+        "value": 3
+    },
+    {
+        "name": "Escrow Fee CutOff",
+        "value": 1000000
+    },
+    {
+        "name": "Escrow Fee 2nd CutOff",
+        "value": 2000000
+    },
+    {
+        "name": "Escrow Fee Incremental Amount",
+        "value": 5000
+    },
+    {
+        "name": "Escrow Fee 2nd Incremental Amount",
+        "value": 6000
+    },
+    {
+        "name": "Escrow Fee Incremental Change",
+        "value": 3.5
+    },
+    {
+        "name": "Escrow Fee 2nd Incremental Change",
+        "value": 4
+    },
+    {
+        "name": "Title Premium CutOff",
+        "value": 1000000
+    },
+    {
+        "name": "Title Premium Incremental Amount",
+        "value": 5000
+    },
+    {
+        "name": "Title Premium Incremental Change",
+        "value": 8.4
+    },
+    {
+        "name": "USDA Fee",
+        "value": 0.02
+    },
+    {
+        "name": "USDA Val",
+        "value": 0.004
+    },
+    {
+        "name": "MPI Level1",
+        "value": 0.95
+    },
+    {
+        "name": "MPI Level1 Val",
+        "value": 0.0083
+    },
+    {
+        "name": "MPI Level2",
+        "value": 0.9
+    },
+    {
+        "name": "MPI Level2 Val",
+        "value": 0.0047
+    },
+    {
+        "name": "MPI Level3",
+        "value": 0.8
+    },
+    {
+        "name": "MPI Level3 Val",
+        "value": 0.0037
+    },
+    {
+        "name": "Min Escrow Fee",
+        "value": 1423.5
+    },
+    {
+        "name": "Min Title Premium",
+        "value": 3025.4
+    },
+    {
+        "name": "Property Tax Impounds Val1",
+        "value": 4
+    },
+    {
+        "name": "New Loan Escrow Fee",
+        "value": 100
+    },
+    {
+        "name": "Origination Fee",
+        "value": 0.01
+    },
+    {
+        "name": "Hazard Insurance Impounds",
+        "value": 14
+    },
+    {
+        "name": "Property Tax Impounds Val2",
+        "value": 5
+    },
+    {
+        "name": "Property Tax Impounds Val3",
+        "value": 0
+    },
+    {
+        "name": "Property Tax Impounds Val4",
+        "value": 6
+    },
+    {
+        "name": "Property Tax Impounds Val5",
+        "value": 2
+    },
+    {
+        "name": "Property Tax Impounds Val6",
+        "value": 3
+    },
+    {
+        "name": "FHA Val",
+        "value": 0.0135
+    },
+    {
+        "name": "VA Val",
+        "value": 45
+    },
+    {
+        "name": "FHA Appraisal",
+        "value": 450
+    },
+    {
+        "name": "FHA Val1",
+        "value": 1.75
+    },
+    {
+        "name": "Harzard Insurance Multiplier",
+        "value": 0.0036
+    },
+    {
+        "name": "Cash Finance Type Multiplier",
+        "value": 120
+    },
+    {
+        "name": "Policy Type Multiplier",
+        "value": 110
+    },
+    {
+        "name": "Loan Finance Type Multiplier",
+        "value": 65
+    },
+    {
+        "name": "USDA Fee Multiplier",
+        "value": 0.02
+    },
+    {
+        "name": "Minimum Purchase Value Cutoff",
+        "value": 7500000
+    },
+    {
+        "name": "OCB Monthly Property Taxes Increment Value",
+        "value": 20
+    }
+]

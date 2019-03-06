@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Escrow and Title",
+        "sortOrder": 1,
+        "isActive": true
+    },
+    {
+        "description": "New Loan",
+        "sortOrder": 2,
+        "isActive": true
+    },
+    {
+        "description": "Seller Payoffs",
+        "sortOrder": 3,
+        "isActive": true
+    },
+    {
+        "description": "Miscellaneous",
+        "sortOrder": 4,
+        "isActive": true
+    }
+]

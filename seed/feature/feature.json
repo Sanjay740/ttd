@@ -1,0 +1,128 @@
+[
+  {
+    "editable": true,
+    "active": true,
+    "subFeatures": [
+      {
+        "name": "Abstract Report",
+        "price": 150,
+        "editable": true,
+        "id": 1
+      },
+      {
+        "name": "Deed In Lieu",
+        "price": 100,
+        "editable": true,
+        "id": 2
+      },
+      {
+        "name": "ForeClosure",
+        "price": 100,
+        "editable": true,
+        "id": 3
+      },
+      {
+        "name": "Informational Search",
+        "price": 150,
+        "editable": true,
+        "id": 4
+      },
+      {
+        "name": "LLC Policy",
+        "price": 150,
+        "editable": true,
+        "id": 5
+      },
+      {
+        "name": "OwnerEncumbrance",
+        "price": 100,
+        "editable": true,
+        "id": 6
+      },
+      {
+        "name": "REO",
+        "price": 100,
+        "editable": true,
+        "id": 7
+      },
+      {
+        "name": "Title Request",
+        "price": 150,
+        "editable": true,
+        "id": 8
+      }
+    ],
+    "name": "Requested Services",
+    "price": 1000,
+    "imagePath":"assets/images/request-service.png",
+    "id": 1
+  },
+  {
+    "editable": true,
+    "active": true,
+    "subFeatures": [
+      {
+        "name": "Escrow Fee Setup",
+        "price": 0,
+        "editable": false,
+        "id": 1
+      },
+      {
+        "name": "Title Fee Setup",
+        "price": 0,
+        "editable": false,
+        "id": 2
+      },
+      {
+        "name": "County Setup",
+        "price": 0,
+        "editable": false,
+        "id": 3
+      },
+      {
+        "name": "Amount Variation",
+        "price": 0,
+        "editable": false,
+        "id": 4
+      }
+    ],
+    "name": "TTD NetSheet",
+    "price": 500,
+    "imagePath":"assets/images/netsheet.png",
+    "id": 2
+  },
+  {
+    "editable": true,
+    "active": true,
+    "subFeatures": [
+      {
+        "name": "Real Time Communication",
+        "price": 0,
+        "editable": false,
+        "id": 1
+      },
+      {
+        "name": "Workflow",
+        "price": 0,
+        "editable": false,
+        "id": 2
+      },
+      {
+        "name": "Task",
+        "price": 0,
+        "editable": false,
+        "id": 3
+      },
+      {
+        "name": "Closing Location Configuration",
+        "price": 0,
+        "editable": false,
+        "id": 4
+      }
+    ],
+    "name": "TTD Huddle",
+    "price": 5000,
+    "imagePath":"assets/images/ttd_huddle.png",
+    "id": 3
+  }
+]
